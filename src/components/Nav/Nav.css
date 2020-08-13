@@ -1,0 +1,26 @@
+.nav-list {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.nav-list-item {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nav-list-item a {
+  color: black;
+}
+
+.nav-list-item a:hover {
+  color: #f8a347;
+}
+
+.nav-list-item .active {
+  color: #f8a347;
+}
+
+.nav-list-item--1 {
+  margin-right: 10px;
+}

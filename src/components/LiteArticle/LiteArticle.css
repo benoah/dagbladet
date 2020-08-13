@@ -1,0 +1,13 @@
+.lite-title-wrapper {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.lite-title {
+  cursor: pointer;
+}
+
+.lite-title:hover {
+  text-decoration: underline;
+}
