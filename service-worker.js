@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dagbladet/precache-manifest.c6cc890dc4404f1bc8b878a93bdd1660.js"
+  "/dagbladet/precache-manifest.2ceaf0fe0870fc06837f3e288d6cb191.js"
 );
 
 self.addEventListener('message', (event) => {

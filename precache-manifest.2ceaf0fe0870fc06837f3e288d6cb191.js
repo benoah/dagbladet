@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6474e8f69f25849de4fbfd350681274",
+    "revision": "75206d24867ccd573cc72d70341b9791",
     "url": "/dagbladet/index.html"
   },
   {
-    "revision": "41dd079254bee143e80b",
+    "revision": "5f6e1ea6ed80a7966d3e",
     "url": "/dagbladet/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "298d6793b41c1ecb4b6b",
+    "revision": "883cde86bde65552b0e7",
     "url": "/dagbladet/static/css/main.ff550775.chunk.css"
   },
   {
-    "revision": "41dd079254bee143e80b",
-    "url": "/dagbladet/static/js/2.42ca6112.chunk.js"
+    "revision": "5f6e1ea6ed80a7966d3e",
+    "url": "/dagbladet/static/js/2.dfc427d4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/dagbladet/static/js/2.42ca6112.chunk.js.LICENSE.txt"
+    "url": "/dagbladet/static/js/2.dfc427d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "298d6793b41c1ecb4b6b",
-    "url": "/dagbladet/static/js/main.eb44c8bc.chunk.js"
+    "revision": "883cde86bde65552b0e7",
+    "url": "/dagbladet/static/js/main.1438c3a5.chunk.js"
   },
   {
     "revision": "d3bdfd0575b129acc175",
