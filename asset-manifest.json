@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dagbladet/static/css/main.ff550775.chunk.css",
+    "main.js": "/dagbladet/static/js/main.eb44c8bc.chunk.js",
+    "main.js.map": "/dagbladet/static/js/main.eb44c8bc.chunk.js.map",
+    "runtime-main.js": "/dagbladet/static/js/runtime-main.a478dd27.js",
+    "runtime-main.js.map": "/dagbladet/static/js/runtime-main.a478dd27.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/dagbladet/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.42ca6112.chunk.js": "/dagbladet/static/js/2.42ca6112.chunk.js",
+    "static/js/2.42ca6112.chunk.js.map": "/dagbladet/static/js/2.42ca6112.chunk.js.map",
+    "index.html": "/dagbladet/index.html",
+    "precache-manifest.c6cc890dc4404f1bc8b878a93bdd1660.js": "/dagbladet/precache-manifest.c6cc890dc4404f1bc8b878a93bdd1660.js",
+    "service-worker.js": "/dagbladet/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/dagbladet/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ff550775.chunk.css.map": "/dagbladet/static/css/main.ff550775.chunk.css.map",
+    "static/js/2.42ca6112.chunk.js.LICENSE.txt": "/dagbladet/static/js/2.42ca6112.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a478dd27.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.42ca6112.chunk.js",
+    "static/css/main.ff550775.chunk.css",
+    "static/js/main.eb44c8bc.chunk.js"
+  ]
+}
