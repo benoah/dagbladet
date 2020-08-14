@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 100%;
+}
+
 body {
   margin: 0;
   font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
@@ -46,4 +50,22 @@ button {
 
 .row {
   padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+@media only screen and (max-width: 770px) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  html {
+    font-size: 65%;
+  }
 }
