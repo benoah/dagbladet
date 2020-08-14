@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dagbladet/static/css/main.ff550775.chunk.css",
-    "main.js": "/dagbladet/static/js/main.1438c3a5.chunk.js",
-    "main.js.map": "/dagbladet/static/js/main.1438c3a5.chunk.js.map",
+    "main.css": "/dagbladet/static/css/main.c7dbb58d.chunk.css",
+    "main.js": "/dagbladet/static/js/main.81ac43ae.chunk.js",
+    "main.js.map": "/dagbladet/static/js/main.81ac43ae.chunk.js.map",
     "runtime-main.js": "/dagbladet/static/js/runtime-main.a478dd27.js",
     "runtime-main.js.map": "/dagbladet/static/js/runtime-main.a478dd27.js.map",
     "static/css/2.af3c1da9.chunk.css": "/dagbladet/static/css/2.af3c1da9.chunk.css",
     "static/js/2.dfc427d4.chunk.js": "/dagbladet/static/js/2.dfc427d4.chunk.js",
     "static/js/2.dfc427d4.chunk.js.map": "/dagbladet/static/js/2.dfc427d4.chunk.js.map",
     "index.html": "/dagbladet/index.html",
-    "precache-manifest.2ceaf0fe0870fc06837f3e288d6cb191.js": "/dagbladet/precache-manifest.2ceaf0fe0870fc06837f3e288d6cb191.js",
+    "precache-manifest.24c8a5688084756d4580094fba006531.js": "/dagbladet/precache-manifest.24c8a5688084756d4580094fba006531.js",
     "service-worker.js": "/dagbladet/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/dagbladet/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ff550775.chunk.css.map": "/dagbladet/static/css/main.ff550775.chunk.css.map",
+    "static/css/main.c7dbb58d.chunk.css.map": "/dagbladet/static/css/main.c7dbb58d.chunk.css.map",
     "static/js/2.dfc427d4.chunk.js.LICENSE.txt": "/dagbladet/static/js/2.dfc427d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a478dd27.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.dfc427d4.chunk.js",
-    "static/css/main.ff550775.chunk.css",
-    "static/js/main.1438c3a5.chunk.js"
+    "static/css/main.c7dbb58d.chunk.css",
+    "static/js/main.81ac43ae.chunk.js"
   ]
 }
