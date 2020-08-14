@@ -19,7 +19,7 @@ const Article = ({
   };
 
   return (
-    <div className={`col-${width}`}>
+    <div className={`col-lg-${width} col-xl-${width} col-12 col-sm-6 column`}>
       <figure className={`article-preview`}>
         <img className="img-preview" src={imageUrl} alt="article-preview" />
         <div className="button-group">

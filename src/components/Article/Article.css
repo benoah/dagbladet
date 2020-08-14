@@ -60,3 +60,7 @@
   font-weight: bold;
   word-break: break-word;
 }
+
+.column {
+  margin-bottom: 12px;
+}

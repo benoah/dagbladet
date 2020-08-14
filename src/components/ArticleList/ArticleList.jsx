@@ -89,25 +89,23 @@ const ArticleList = () => {
         counter={counter}
         setCounter={setCounter}
       />
-      {articles &&
-        articles.length &&
-        articles[0].map((row) => {
-          return (
-            <div className="row" key={shortid.generate()}>
-              {row.columns.map((column) => (
-                <Article
-                  {...column}
-                  key={shortid.generate()}
-                  edit={setEditArticleMode}
-                  cancel={cancelEditMode}
-                  save={saveTitle}
-                  editId={editId}
-                  remove={removeArticle}
-                />
-              ))}
-            </div>
-          );
-        })}
+      {articles && articles.length && (
+        <div className="row" key={shortid.generate()}>
+          {articles[0].map((row) => {
+            return row.columns.map((column) => (
+              <Article
+                {...column}
+                key={shortid.generate()}
+                edit={setEditArticleMode}
+                cancel={cancelEditMode}
+                save={saveTitle}
+                editId={editId}
+                remove={removeArticle}
+              />
+            ));
+          })}
+        </div>
+      )}
     </div>
   );
 };
